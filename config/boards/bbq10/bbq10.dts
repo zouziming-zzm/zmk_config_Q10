@@ -12,8 +12,8 @@
 #include "bbq10-pinctrl.dtsi"
 
 / {
-    model = "bbq10";
-    compatible = "ZitaoTech,bbq10";
+    model = "bbq170";
+    compatible = "ZitaoTech,bbq180";
 
     chosen {
         zephyr,code-partition = &code_partition;
