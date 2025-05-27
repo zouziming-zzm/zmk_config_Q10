@@ -4,7 +4,7 @@
 if BOARD_BBQ10
 
 config ZMK_KEYBOARD_NAME
-    default "bbq10"
+    default "bbq1000"
 
 if USB_DEVICE_STACK
 
